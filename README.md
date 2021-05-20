@@ -9,4 +9,4 @@ Walkthrough mini project for Code Institute for Flask and MongoDB - Backend Deve
 ## Demo
 
 A link tot the live demo version:
-https://git.heroku.com/flask-task-manager-daphne.git
+https://flask-task-manager-daphne.herokuapp.com/
